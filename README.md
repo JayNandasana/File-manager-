@@ -1,2 +1,2 @@
 # File-manager-
-Extension wise file categories
+Extension wise file categories in python GUI using tkinter
